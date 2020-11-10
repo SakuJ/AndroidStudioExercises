@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Tietoliikenne_Lab1_Tehtava3'

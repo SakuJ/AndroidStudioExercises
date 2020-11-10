@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mob_kayttoliittyma_H8T1</string>
+
+    <string-array name="countries">
+        <item>Finland</item>
+        <item>Sweden</item>
+        <item>USA</item>
+        <item>Norway</item>
+    </string-array>
+</resources>
